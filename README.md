@@ -1,8 +1,8 @@
-# Video Editor Application
+# Salveditor
 
 ![](https://imgur.com/BF6VKCd.png)
 
-This is a video editor application built using React, Next.js and CreativeEditorSDK (CESDK). The application allows users to edit videos and exporting the edited video.
+>Salveditor is a video editing application created with React, Next.js, and CreativeEditorSDK (CESDK). 🎥✨ This app enables users to edit videos easily and export their edited creations. 📹💾
 
 ## Folder Structure
 
